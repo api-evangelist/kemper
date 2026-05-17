@@ -4,7 +4,7 @@ description: >-
   The Kemper family of companies is one of the nation's leading insurers. With
   approximately $13 billion in assets, Kemper is improving the world of insurance
   by offering personalized solutions for individuals, families and businesses.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Insurance
