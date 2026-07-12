@@ -18,10 +18,14 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/kemper-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/kemperinsurance
   - type: Website
     url: https://www.kemper.com
+  - url: https://cloud.kemper.com/en/resources/insurance-insights
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
