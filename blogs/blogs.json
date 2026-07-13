@@ -1,0 +1,14 @@
+{
+  "repo": "kemper",
+  "feeds": [
+    {
+      "source": "https://cloud.kemper.com/en/resources/insurance-insights",
+      "feed_url": "https://cloud.kemper.com/en/resources/insurance-insights/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
