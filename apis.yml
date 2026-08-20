@@ -21,6 +21,12 @@ tags:
   - Insurance
   - Auto Insurance
   - Life Insurance
+  - Financial-Services
+  - Fortune 1000
+tags_raw:
+  - Insurance
+  - Auto Insurance
+  - Life Insurance
   - Financial Services
   - Fortune 1000
 url: https://raw.githubusercontent.com/api-evangelist/kemper/refs/heads/main/apis.yml
