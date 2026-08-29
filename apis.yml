@@ -5,6 +5,17 @@ description: >-
   approximately $13 billion in assets, Kemper is improving the world of insurance
   by offering personalized solutions for individuals, families and businesses.
 kind: company
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
