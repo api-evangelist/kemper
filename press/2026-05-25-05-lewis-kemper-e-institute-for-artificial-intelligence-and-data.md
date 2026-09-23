@@ -1,7 +1,9 @@
 ---
 title: Lewis, Kemper E - Institute for Artificial Intelligence and Data ...
 url: https://www.buffalo.edu/ai-data-science/people/ub-affiliated-faculty.host.html/content/authoritative/profiles/lewis-kemper-e.detail.latest-news.html?par_list_start=28
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kemper" press release artificial intelligence'
 position: 5
 source: serpapi-google

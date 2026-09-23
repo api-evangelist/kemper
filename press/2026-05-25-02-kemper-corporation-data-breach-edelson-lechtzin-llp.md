@@ -1,7 +1,9 @@
 ---
 title: 'Kemper Corporation Data Breach: Edelson Lechtzin LLP ...'
 url: https://www.prnewswire.com/news-releases/kemper-corporation-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302749607.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kemper" press release artificial intelligence'
 position: 2
 source: serpapi-google

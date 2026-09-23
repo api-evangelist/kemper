@@ -1,7 +1,9 @@
 ---
 title: Events & Presentations | Kemper Corporation
 url: https://investors.kemper.com/events-and-presentations/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kemper" press release artificial intelligence'
 position: 1
 source: serpapi-google
